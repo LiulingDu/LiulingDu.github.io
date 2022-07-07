@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.sjsu.assignment2","c":"MyTime","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"edu.sjsu.assignment2","c":"MyTime","l":"MyTime()","u":"%3Cinit%3E()"},{"p":"edu.sjsu.assignment2","c":"MyTime","l":"printTimeDifference(String, String)","u":"printTimeDifference(java.lang.String,java.lang.String)"}];updateSearchResults();
