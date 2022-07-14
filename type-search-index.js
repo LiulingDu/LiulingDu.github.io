@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.sjsu.assignment2","l":"MyTime"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.sjsu.assignment3","l":"Assignment3.Appointment"},{"p":"edu.sjsu.assignment3","l":"Assignment3"},{"p":"edu.sjsu.assignment3","l":"Assignment3.DailyAppointment"},{"p":"edu.sjsu.assignment3","l":"Assignment3.MonthlyAppointment"},{"p":"edu.sjsu.assignment3","l":"Assignment3.OnetimeAppointment"}];updateSearchResults();
